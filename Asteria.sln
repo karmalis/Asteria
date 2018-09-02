@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteria", "Asteria\Asteria.csproj", "{CBA7FC65-880A-40AC-B3A2-7188EEED2F99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsteriaTest", "AsteriaTest\AsteriaTest.csproj", "{7C637D00-ED36-4293-A7E4-3CDA2E2466DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA7FC65-880A-40AC-B3A2-7188EEED2F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA7FC65-880A-40AC-B3A2-7188EEED2F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA7FC65-880A-40AC-B3A2-7188EEED2F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA7FC65-880A-40AC-B3A2-7188EEED2F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C637D00-ED36-4293-A7E4-3CDA2E2466DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C637D00-ED36-4293-A7E4-3CDA2E2466DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C637D00-ED36-4293-A7E4-3CDA2E2466DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C637D00-ED36-4293-A7E4-3CDA2E2466DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F37C409B-E6D8-4201-B819-6D1CD9DF0F5E}
+	EndGlobalSection
+EndGlobal
